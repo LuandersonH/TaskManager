@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="TaskManager.Application\**" />
+    <Compile Remove="TaskManager.Communication\**" />
+    <Content Remove="TaskManager.Application\**" />
+    <Content Remove="TaskManager.Communication\**" />
+    <EmbeddedResource Remove="TaskManager.Application\**" />
+    <EmbeddedResource Remove="TaskManager.Communication\**" />
+    <None Remove="TaskManager.Application\**" />
+    <None Remove="TaskManager.Communication\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 

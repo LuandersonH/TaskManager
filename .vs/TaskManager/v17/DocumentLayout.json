@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Estudos\\Rockeatseat\\C#\\TaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{988F43EF-3CB7-4271-975C-7A66FDFC50F8}|TaskManager.API.csproj|c:\\estudos\\rockeatseat\\c#\\taskmanager\\taskmanager.application\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{988F43EF-3CB7-4271-975C-7A66FDFC50F8}|TaskManager.API.csproj|solutionrelative:taskmanager.application\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{988F43EF-3CB7-4271-975C-7A66FDFC50F8}|TaskManager.API.csproj|c:\\estudos\\rockeatseat\\c#\\taskmanager\\taskmanager.application\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{988F43EF-3CB7-4271-975C-7A66FDFC50F8}|TaskManager.API.csproj|solutionrelative:taskmanager.application\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93E21CDE-4C5B-4D30-B799-7EB627BB3E0A}|TaskManager.Communication\\TaskManager.Communication.csproj|c:\\estudos\\rockeatseat\\c#\\taskmanager\\taskmanager.communication\\requests\\requestregistertaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93E21CDE-4C5B-4D30-B799-7EB627BB3E0A}|TaskManager.Communication\\TaskManager.Communication.csproj|solutionrelative:taskmanager.communication\\requests\\requestregistertaskjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB53B1BE-9C6A-4209-AFA4-A97E6D6072B9}|TaskManager.Application\\TaskManager.Application.csproj|c:\\estudos\\rockeatseat\\c#\\taskmanager\\taskmanager.application\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB53B1BE-9C6A-4209-AFA4-A97E6D6072B9}|TaskManager.Application\\TaskManager.Application.csproj|solutionrelative:taskmanager.application\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988F43EF-3CB7-4271-975C-7A66FDFC50F8}|TaskManager.API.csproj|c:\\estudos\\rockeatseat\\c#\\taskmanager\\taskmanager.application\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988F43EF-3CB7-4271-975C-7A66FDFC50F8}|TaskManager.API.csproj|solutionrelative:taskmanager.application\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB53B1BE-9C6A-4209-AFA4-A97E6D6072B9}|TaskManager.Application\\TaskManager.Application.csproj|c:\\estudos\\rockeatseat\\c#\\taskmanager\\taskmanager.application\\taskmanager.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "TaskManager.Application\\Enums\\Priority.cs",
               "ToolTip": "C:\\Estudos\\Rockeatseat\\C#\\TaskManager\\TaskManager.Application\\Enums\\Priority.cs",
               "RelativeToolTip": "TaskManager.Application\\Enums\\Priority.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T03:00:13.336Z",
               "EditorCaption": ""
@@ -44,19 +44,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TaskManager.Application",
+              "Title": "TaskManager.Application.csproj",
               "DocumentMoniker": "C:\\Estudos\\Rockeatseat\\C#\\TaskManager\\TaskManager.Application\\TaskManager.Application.csproj",
               "RelativeDocumentMoniker": "TaskManager.Application\\TaskManager.Application.csproj",
               "ToolTip": "C:\\Estudos\\Rockeatseat\\C#\\TaskManager\\TaskManager.Application\\TaskManager.Application.csproj",
               "RelativeToolTip": "TaskManager.Application\\TaskManager.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-21T01:56:10.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T01:56:10.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Estudos\\Rockeatseat\\C#\\TaskManager\\TaskManager.Application\\Enums\\Status.cs",
               "RelativeDocumentMoniker": "TaskManager.Application\\Enums\\Status.cs",
@@ -69,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "RequestRegisterTaskJson.cs",
               "DocumentMoniker": "C:\\Estudos\\Rockeatseat\\C#\\TaskManager\\TaskManager.Communication\\Requests\\RequestRegisterTaskJson.cs",
               "RelativeDocumentMoniker": "TaskManager.Communication\\Requests\\RequestRegisterTaskJson.cs",
               "ToolTip": "C:\\Estudos\\Rockeatseat\\C#\\TaskManager\\TaskManager.Communication\\Requests\\RequestRegisterTaskJson.cs",
               "RelativeToolTip": "TaskManager.Communication\\Requests\\RequestRegisterTaskJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T01:51:50.984Z",
               "EditorCaption": ""
