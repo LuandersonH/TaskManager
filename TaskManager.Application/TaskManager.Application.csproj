@@ -7,11 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="useCases\Tasks\Delete\" />
     <Folder Include="useCases\Tasks\GetAll\" />
-    <Folder Include="useCases\Tasks\Update\" />
     <Folder Include="useCases\Tasks\Register\" />
-    <Folder Include="useCases\Tasks\GetById\" />
   </ItemGroup>
 
 </Project>
